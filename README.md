@@ -72,6 +72,8 @@
 > Do not connect an external display before the system fully boots.
 > This will cause the internal display to not be detected.
 > Always connect external monitors after reaching the desktop.
+>
+> Somehow, when you connect an external display, gestures on the trackpad doesn't work, if you know how to fix it, please create a pull request
 
 ---
 
