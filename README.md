@@ -51,7 +51,7 @@
 | USB Ports               | ✅      | All functional         |
 | Trackpad + Gestures     | ✅      | Multi-finger supported |
 | TrackPoint              | ✅      | Fully functional       |
-
+| 3.5mm Jack              | ✅      | Functional             |
 ---
 
 ## ❌ Not Working
@@ -62,7 +62,7 @@
 | iServices (iMessage, FaceTime) | ⚠️     | Requires your own SMBIOS |
 | Thunderbolt                    | 🔲     | Not tested               |
 | Smart Card Reader              | 🔲     | Not tested               |
-| 3.5mm Jack                     | 🔲     | Not tested               |
+
 
 ---
 
@@ -73,7 +73,7 @@
 > This will cause the internal display to not be detected.
 > Always connect external monitors after reaching the desktop.
 >
-> Somehow, when you connect an external display, gestures on the trackpad doesn't work, if you know how to fix it, please create a pull request
+> Somehow, when you boot, there is 50% chance gestures on the trackpad doesn't work, if you know how to fix it, please create a pull request :)
 
 ---
 
