@@ -2731,7 +2731,7 @@
                 <key>PointerSupport</key>
                 <true/>
                 <key>PointerSupportMode</key>
-                <string>Auto</string>
+                <string>ASUS</string>
                 <key>TimerResolution</key>
                 <integer>50000</integer>
             </dict>
