@@ -43,23 +43,24 @@
 | ----------------------- | ------ | ---------------------- |
 | Boot                    | ✅      | Stable                 |
 | Sleep / Wake            | ✅      | No issues              |
-| Wi-Fi                   | ✅      | Requires Heliport      |
+| Wi-Fi                   | ✅❕    | Native Menu! (Requires OCLP-Mod)     |
 | Audio                   | ✅      | OCLP-Mod only          |
 | Native GPU Acceleration | ✅      | Works out of the box   |
 | Brightness Keys         | ✅      | Functional             |
 | Battery Management      | ✅      | Working                |
 | USB Ports               | ✅      | All functional         |
-| Trackpad + Gestures     | ✅      | Multi-finger supported |
 | TrackPoint              | ✅      | Fully functional       |
 | 3.5mm Jack              | ✅      | Functional             |
+| Bluetooth               | ✅      | Functional             |
+
 ---
 
 ## ❌ Not Working
 
 | Feature                        | Status | Notes                    |
 | ------------------------------ | ------ | ------------------------ |
-| Bluetooth                      | ❌      | Not working              |
-| iServices (iMessage, FaceTime) | ⚠️     | Requires your own SMBIOS |
+| Trackpad Gestures              | ❌     | Not Working              |
+| iServices (iMessage, FaceTime) | ❌     | Doesnt Work.             |
 | Thunderbolt                    | 🔲     | Not tested               |
 | Smart Card Reader              | 🔲     | Not tested               |
 
@@ -72,8 +73,6 @@
 > Do not connect an external display before the system fully boots.
 > This will cause the internal display to not be detected.
 > Always connect external monitors after reaching the desktop.
->
-> Somehow, when you boot, there is 50% chance gestures on the trackpad doesn't work, if you know how to fix it, please create a pull request :)
 
 ---
 
