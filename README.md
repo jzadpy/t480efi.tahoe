@@ -128,7 +128,7 @@ On first boot:
 * OCLP — Legacy Patcher
 * OpenIntelWireless — AirportItlwm
 * Acidanthera — OpenCore, Lilu, WhateverGreen, AppleALC
-* MultimediaLucario — Base T480 EFI
+* MultimediaLucario — Base T480 EFI Kaby Lake that i modified
 * LaObaMac — OCLP-Mod
 
 ---
