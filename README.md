@@ -104,7 +104,7 @@ It should say: **"Purchase Date not Validated"**
 
 ---
 
-### 🔊 3. Apply OCLP-Mod (Audio Fix)
+### 🔊 2. Apply OCLP-Mod (Audio and WIFI Fix)
 
 * Standard OCLP patches do **not** fix audio
 * Use **OCLP-Mod** instead
@@ -112,7 +112,7 @@ It should say: **"Purchase Date not Validated"**
 
 ---
 
-### 🔄 4. Reset NVRAM
+### 🔄 3. Reset NVRAM
 
 On first boot:
 
