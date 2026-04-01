@@ -1,6 +1,6 @@
 <h1 align="center">💻 ThinkPad T480 — macOS Tahoe EFI</h1>
 <p align="center">
-  <b>OpenCore EFI for running macOS Tahoe on the Lenovo ThinkPad T480</b>
+  <b>OpenCore EFI for running macOS Tahoe on the Lenovo ThinkPad T480 Kaby Lake</b>
 </p>
 
 <p align="center">
@@ -8,11 +8,6 @@
   <img src="https://img.shields.io/badge/OpenCore-1.0.7-brightgreen">
   <img src="https://img.shields.io/badge/Status-Stable-success">
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500">
-</p>
-
 ---
 
 ## 🚀 Hardware Specs
@@ -60,10 +55,12 @@
 
 | Feature                        | Status | Notes                    |
 | ------------------------------ | ------ | ------------------------ |
-| iServices (iMessage, FaceTime) | ❌     | Doesnt Work.             |
+| iServices (iMessage, FaceTime) | ❌     | Impossible*              |
 | Thunderbolt                    | 🔲     | Not tested               |
 
 
+
+*: IServices will not work, i researched and Tahoe has tighten his security, now it checks AMFI, SIP and other things, this EFI uses Root Patches and CPU Spoofing that require AMFI and SIP disabled to work, so its impossible.
 ---
 
 ## 📋 Requirements
