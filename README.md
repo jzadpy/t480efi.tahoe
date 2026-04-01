@@ -43,7 +43,7 @@
 | ----------------------- | ------ | ---------------------- |
 | Boot                    | ✅      | Stable                 |
 | Sleep / Wake            | ✅      | No issues              |
-| Wi-Fi                   | ✅❕    | Native Menu! (Requires OCLP-Mod)     |
+| Wi-Fi                   | ✅    | Native Menu! (Requires OCLP-Mod)     |
 | Audio                   | ✅      | OCLP-Mod only          |
 | Native GPU Acceleration | ✅      | Works out of the box   |
 | Brightness Keys         | ✅      | Functional             |
@@ -52,27 +52,17 @@
 | TrackPoint              | ✅      | Fully functional       |
 | 3.5mm Jack              | ✅      | Functional             |
 | Bluetooth               | ✅      | Functional             |
-
+| Trackpad Gestures       | ✅      | Working (New!)         |
+| External Display Boot   | ✅      | Solved (New!)          |
 ---
 
 ## ❌ Not Working
 
 | Feature                        | Status | Notes                    |
 | ------------------------------ | ------ | ------------------------ |
-| Trackpad Gestures              | ❌     | Not Working              |
 | iServices (iMessage, FaceTime) | ❌     | Doesnt Work.             |
 | Thunderbolt                    | 🔲     | Not tested               |
-| Smart Card Reader              | 🔲     | Not tested               |
 
-
----
-
-## ⚠️ Known Issues
-
-> [!WARNING]
-> Do not connect an external display before the system fully boots.
-> This will cause the internal display to not be detected.
-> Always connect external monitors after reaching the desktop.
 
 ---
 
@@ -139,7 +129,7 @@ On first boot:
 
 * Dortania — OpenCore Install Guide
 * OCLP — Legacy Patcher
-* OpenIntelWireless — itlwm / Heliport
+* OpenIntelWireless — AirportItlwm
 * Acidanthera — OpenCore, Lilu, WhateverGreen, AppleALC
 * MultimediaLucario — Base T480 EFI
 * LaObaMac — OCLP-Mod
