@@ -117,14 +117,6 @@ It should say: **"Purchase Date not Validated"**
 
 ---
 
-### 📡 2. Install Heliport (Wi-Fi)
-
-* Download: https://github.com/OpenIntelWireless/HeliPort/releases
-* Required to connect to Wi-Fi
-* Native macOS Wi-Fi menu will not work
-
----
-
 ### 🔊 3. Apply OCLP-Mod (Audio Fix)
 
 * Standard OCLP patches do **not** fix audio
