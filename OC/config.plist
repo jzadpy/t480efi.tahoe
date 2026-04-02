@@ -2508,7 +2508,7 @@
                     <key>bluetoothInternalControllerInfo</key>
                     <data>AAAAAAAAAACJZTpVLv0=</data>
                     <key>boot-args</key>
-                    <string>-btlfxallowanyaddr darkwake=0 igfxonln=1 -no_compat_check amfi_get_out_of_my_way=1 revpatch=sbvmm -lilubetaall -ibtcompatbeta unfairgva=4</string>
+                    <string>-btlfxallowanyaddr darkwake=2 igfxonln=1 -no_compat_check amfi_get_out_of_my_way=1 revpatch=sbvmm -lilubetaall -ibtcompatbeta unfairgva=4</string>
                     <key>csr-active-config</key>
                     <data>AwgAAA==</data>
                     <key>prev-lang:kbd</key>
