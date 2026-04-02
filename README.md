@@ -47,20 +47,16 @@
 | TrackPoint              | ✅      | Fully functional       |
 | 3.5mm Jack              | ✅      | Functional             |
 | Bluetooth               | ✅      | Functional             |
-| Trackpad Gestures       | ✅      | Working (New!)         |
-| External Display Boot   | ✅      | Solved (New!)          |
+| Trackpad Gestures       | ✅      | Working                |
+| External Display Boot   | ✅      | Solved                 |
+| Thunderbolt*            | ✅      | Functional (New!)      |
 ---
 
-## ❌ Not Working
-
-| Feature                        | Status | Notes                    |
-| ------------------------------ | ------ | ------------------------ |
-| iServices (iMessage, FaceTime) | ❌     | Impossible*              |
-| Thunderbolt                    | 🔲     | Not tested               |
-
-
+## ❌ iServices not working
 
 *: IServices will not work, i researched and Tahoe has tighten his security, now it checks AMFI, SIP and other things, this EFI uses Root Patches and CPU Spoofing that require AMFI and SIP disabled to work, so its impossible.
+
+*: I tested Thunderbolt Display, i dont know if docks and other things work
 ---
 
 ## 📋 Requirements
